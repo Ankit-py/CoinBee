@@ -20,4 +20,4 @@ This is a React-native/expo build.
 ![Screenshot](https://user-images.githubusercontent.com/31533988/144720481-cae1c1b0-e8fd-438d-a7b5-2ac56b5dcf6a.png)
 
 
-# This app is made by using CoinGecko API
+# This app is made using CoinGecko API.
